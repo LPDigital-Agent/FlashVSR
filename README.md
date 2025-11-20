@@ -30,6 +30,28 @@ Diffusion models have recently advanced video restoration, but applying them to 
 - **Coming Soon:** Dataset release (**VSR-120K**) for large-scale training.
 
 ---
+### 🌐 Community Integrations
+
+Thanks to the community for the fast adoption of FlashVSR! Below are some third-party integrations:
+
+**ComfyUI Support**
+- **[smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR)** — closer to the official implementation  
+- **[lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast](https://github.com/lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast)** — modified attention behavior, easier installation, and added `tile_dit`; I have not personally tested this version
+- **WanVideoWrapper** — integrated support but currently has known issues  
+  https://github.com/kijai/ComfyUI-WanVideoWrapper/issues/1441
+
+**Cloud / API Deployments**  
+(Ready-to-use online inference; however, if you have a capable GPU, we recommend running the official repository directly to achieve the most complete and accurate results.  
+The following services are maintained by third parties.)
+
+- fal.ai: https://fal.ai/models/fal-ai/flashvsr/upscale/video  
+- WaveSpeed AI: https://wavespeed.ai/models/wavespeed-ai/flashvsr  
+- Segmind: https://www.segmind.com/models/flashvsr  
+- Genbo AI: https://www.genbo.ai/models/flash-vsr  
+- JAI Portal: https://www.jaiportal.com/model/flashvsr  
+- FlashVSR Online Service (third-party): https://flashvsr.org  
+- GigapixelAI Video Upscaler (FlashVSR option): https://gigapixelai.com/ai-video-upscaler
+---
 
 ### 📢 Important Quality Note (ComfyUI & other third-party implementations)
 
