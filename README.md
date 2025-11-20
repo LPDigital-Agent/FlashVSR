@@ -47,7 +47,7 @@ The following services are maintained by third parties.)
 - fal.ai: https://fal.ai/models/fal-ai/flashvsr/upscale/video  
 - WaveSpeed AI: https://wavespeed.ai/models/wavespeed-ai/flashvsr  
 - Segmind: https://www.segmind.com/models/flashvsr  
-- Genbo AI: https://www.genbo.ai/models/flash-vsr  
+- Genbo AI: https://genbo.ai/models/toVideo/Flash-VSR
 - JAI Portal: https://www.jaiportal.com/model/flashvsr  
 - FlashVSR Online Service (third-party): https://flashvsr.org  
 - GigapixelAI Video Upscaler (FlashVSR option): https://gigapixelai.com/ai-video-upscaler
