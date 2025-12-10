@@ -225,13 +225,10 @@ We gratefully acknowledge the following open-source projects:
 ### 📜 Citation
 
 ```bibtex
-@misc{zhuang2025flashvsrrealtimediffusionbasedstreaming,
-      title={FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution}, 
-      author={Junhao Zhuang and Shi Guo and Xin Cai and Xiaohui Li and Yihao Liu and Chun Yuan and Tianfan Xue},
-      year={2025},
-      eprint={2510.12747},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.12747}, 
+@article{zhuang2025flashvsr,
+  title={FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution},
+  author={Zhuang, Junhao and Guo, Shi and Cai, Xin and Li, Xiaohui and Liu, Yihao and Yuan, Chun and Xue, Tianfan},
+  journal={arXiv preprint arXiv:2510.12747},
+  year={2025}
 }
 ```
